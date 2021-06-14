@@ -1,28 +1,26 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+Scriptable GOs learning 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity 2019 1.15f1, Visual Studio
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Unity 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+![Scriptable objekts](https://user-images.githubusercontent.com/72389896/121885700-bc78b780-cd14-11eb-8cae-2e355f7c593b.PNG)
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+Tutorial:
+*https://www.youtube.com/watch?v=aPXvoWVabPY
 
 ### Project state: 
-incl. progress in percent
+done
 
-### Limitations: 
 
-### Lessons Learned: 
 
-Copyright by you :)
+Copyright by smederer
